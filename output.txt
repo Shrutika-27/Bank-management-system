@@ -1,0 +1,113 @@
+
+
+                             *********************************************************************************************************
+                                                          WELCOME TO OUR BANK MANAGEMENT SYSTEM
+                             *********************************************************************************************************
+1)create new account
+
+2)Money deposit
+
+3)Money withdraw
+
+4)account enquiry
+
+5)update the account
+
+6)exit
+select option you want :1
+
+Enter your full name:Shrutika
+
+Enter your address :Pune
+
+ Enter your contact number :98
+Phone number must be 10 digit
+enter the mobile number777
+1234567898
+
+Enter the account type Saving or current :saving
+
+Enter your account number :123
+
+Enter the password :999
+
+Enter the initial amount to your account :50000
+your account is successfully created
+1)create new account
+
+2)Money deposit
+
+3)Money withdraw
+
+4)account enquiry
+
+5)update the account
+
+6)exit
+select option you want :2
+
+please enter account number and password 123
+999
+
+you have logged in successfully
+enter the amount you want to deposit :2000
+
+money is successfully deposited :
+your total balance :7000
+1)create new account
+
+2)Money deposit
+
+3)Money withdraw
+
+4)account enquiry
+
+5)update the account
+
+6)exit
+select option you want :3
+
+please enter account number and password 123
+999
+
+you have logged in successfully
+enter the amount you want to withdraw?
+100
+
+money is successfully withdrawed
+your total balance :6900
+1)create new account
+
+2)Money deposit
+
+3)Money withdraw
+
+4)account enquiry
+
+5)update the account
+
+6)exit
+select option you want :4
+
+
+Details of account holder
+Name of account holder :Shrutika
+Address :Pune
+Contact no:1234567898
+Account type:saving
+password: 999
+ Account no:123
+  balance :6900
+  
+1)create new account
+
+2)Money deposit
+
+3)Money withdraw
+
+4)account enquiry
+
+5)update the account
+
+6)exit
+select option you want :6

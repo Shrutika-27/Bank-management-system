@@ -1,0 +1,14 @@
+
+
+Name of account holder :Shrutika
+Address :Pune
+Contact no:1234567898
+Account type:saving
+ Account no:123
+ initial amount :5000
+
+money is deposited
+current balance :7000
+
+money is withdrawed
+current balance :6900
